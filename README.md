@@ -2,7 +2,7 @@
 
 <!--
 **LaibaSh01/LaibaSh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 # About Me
 
 - 🔭 I’m currently working on NFT Websites ...
@@ -10,7 +10,7 @@
 - 💬 Ask me about javascript, React, Nodejs ...
 - 📫 How to reach me: laibasheikh12121@gmail.com
 - ⚡ Fun fact:  I can speak four languages - English, sarcasm, emoji, and JavaScript (although some might argue that the last one isn't really a language).
--->
+
 
 
 ## 🌐 Socials:
