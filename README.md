@@ -1,6 +1,6 @@
                                                                         # Hi 👋 I'm Laiba
                                                                         
-                                               [![](https://visitcount.itsvg.in/api?id=LaibaSh01&icon=5&color=0)](https://visitcount.itsvg.in)
+                                              
 
 <!--
 **LaibaSh01/LaibaSh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,4 +33,4 @@
 
 ---
 
-
+ [![](https://visitcount.itsvg.in/api?id=LaibaSh01&icon=5&color=0)](https://visitcount.itsvg.in)
