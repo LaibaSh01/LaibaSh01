@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning NextJs ...
 - 💬 Ask me about javascript, React, Nodejs, Express, Version Control, Python,  ...
 - 📫 How to reach me: laibasheikh12121@gmail.com
-- ⚡ Fun fact: .
 
 
 
