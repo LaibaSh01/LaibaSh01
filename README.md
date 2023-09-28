@@ -6,7 +6,10 @@
 **LaibaSh01/LaibaSh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi 👋 I'm Laiba
+<p align="center">
+  <h1>Hi 👋 I'm Laiba</h1>
+</p>
+
 
 # About Me
 
