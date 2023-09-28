@@ -12,8 +12,9 @@
 
 
 # About Me
+ <img align="right" alt="Coding" width="450" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 I’m currently working on ReactJs Project ... <img align="right" alt="Coding" width="450" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+- 🔭 I’m currently working on ReactJs Project ...
 - 🌱 I’m currently learning MaterialUi ...
 - 💬 Ask me about javascript, React, Nodejs, Express, Version Control, Python,  ... 
 - 📫 How to reach me: laibasheikh12121@gmail.com
