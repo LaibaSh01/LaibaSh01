@@ -10,9 +10,9 @@
 
 # About Me
 
-- 🔭 I’m currently working on ReactJs Project ...
+- 🔭 I’m currently working on a ReactJs Project ...
 - 🌱 I’m currently learning MaterialUi ...
-- 💬 Ask me about javascript, React, Nodejs, Express, Version Control, Python,  ... 
+- 💬 Ask me about JavaScript, React, Nodejs, Express, Version Control, Python, ... 
 - 📫 How to reach me: laibasheikh12121@gmail.com
 
 ## 🌐 Socials:
@@ -32,4 +32,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- [![](https://visitcount.itsvg.in/api?id=LaibaSh01&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LaibaSh01&icon=5&color=0)](https://visitcount.itsvg.in)
