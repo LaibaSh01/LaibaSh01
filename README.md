@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <h1>Hi 👋 I'm Laiba</h1>
+  <h1 align="center">Hi 👋 I'm Laiba</h1>
 </p>
 
 
