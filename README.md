@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on ReactJs Project ...
 - 🌱 I’m currently learning MaterialUi ...
-- 💬 Ask me about javascript, React, Nodejs, Express, Version Control, Python,  ...
+- 💬 Ask me about javascript, React, Nodejs, Express, Version Control, Python,  ... <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 - 📫 How to reach me: laibasheikh12121@gmail.com
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/laiba-sheikh-👩‍💻-b4607821b) 
