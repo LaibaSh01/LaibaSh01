@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning MaterialUi ...
 - 💬 Ask me about javascript, React, Nodejs, Express, Version Control, Python,  ...
 - 📫 How to reach me: laibasheikh12121@gmail.com
-
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)">
 
 
 ## 🌐 Socials:
